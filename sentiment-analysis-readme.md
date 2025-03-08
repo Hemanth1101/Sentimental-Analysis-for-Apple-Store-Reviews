@@ -1,6 +1,6 @@
 # BERT Sentiment Analysis for Apple Store App Reviews
 
-This project implements an end-to-end BERT-based sentiment analysis pipeline for Apple Store app reviews. The analysis uses app descriptions and user ratings to train a sentiment classifier that can predict whether an app will receive positive or negative reviews based on its description.
+This project implements an end-to-end BERT-based sentiment analysis pipeline for Apple Store app reviews. The analysis uses app descriptions and user ratings to train a sentiment classifier that can predict whether an app will receive positive or negative reviews based on its description..
 
 ## Project Structure
 
